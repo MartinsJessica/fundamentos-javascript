@@ -1,3 +1,6 @@
 # Fundamentos Javascript
 
 ## Controle
+
+
+## Funções
